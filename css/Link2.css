@@ -1,12 +1,13 @@
 body {
   font-family: Courier New;
+  background-color: linen;
   color: blue;
   text-align: center;
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: hotpink;
   background-color: lavender;
-  padding: 10px;
+  padding: 20px;
 }
