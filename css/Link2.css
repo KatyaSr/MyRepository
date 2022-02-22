@@ -1,14 +1,17 @@
 body {
-  font-family: Courier New;
-  background-color: linen;
+  font-family: cursive;
+  background-color: mintcream;
   color: blue;
   text-align: center;
 }
 
+h1 {
+    font-size:200%;
+}
 a {
   text-decoration: underline;
-  color: hotpink;
-  background-color: lavender;
-  padding: 5px;
+  color: seagreen;
+  background-color: lightgrey;
+  padding: 20px;
 }
 
